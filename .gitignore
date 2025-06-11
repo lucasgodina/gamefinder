@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.Python/
+venv/
+
+# Data
+data/raw_igdb_data.json
+# data/popular_games_data.csv
+# web/recommendations.json
+
+# Secrets
+*.env
+*.json.secret
+twitch_token.json

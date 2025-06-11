@@ -36,7 +36,7 @@ Follow these steps to set up and run GameFinder locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/GameFinder.git](https://github.com/YOUR_USERNAME/GameFinder.git)
+    git clone [https://github.com/lucasgodina/GameFinder.git](https://github.com/lucasgodina/GameFinder.git)
     cd GameFinder
     ```
 2.  **Set up Python environment:**

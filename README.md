@@ -67,7 +67,3 @@ Follow these steps to set up and run GameFinder locally:
     -   Open `index.html` in your web browser (e.g., `file:///path/to/GameFinder/web/index.html`).
 
 ---
-
-## Author
-
--   [Your Name/GitHub Username] - [Link to your GitHub profile (Optional)]
